@@ -1,0 +1,14 @@
+This is a simple tutorial for learning to use print() command in python.
+input:
+For python 2 users:
+print ("Hello World")
+or 
+print ('Hello World')
+
+For Python 3 users:
+print "Hello World"
+or
+print 'Hello World'
+
+output:
+Hello World
